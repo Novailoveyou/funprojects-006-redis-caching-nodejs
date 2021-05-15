@@ -54,3 +54,9 @@ Exit
 ```redis
 exit
 ```
+
+Get rid of cache
+
+```redis
+FLUSHALL
+```
